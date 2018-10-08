@@ -483,6 +483,7 @@ bilalsiraj
 - [Sumesh Majhi](https://github.com/MajhiRockzZ)
 - [Benjamin Sivoravong](https://github.com/bensivo)
 - [Cameron Blake](https://github.com/mcblake)
+- [John LaCorte](https://github.com/johnlacorte)
 - [Evie Skinner](https://github.com/Evie-Skinner18)
 - [Sazzyx]()
 - [AGunnerson]()
